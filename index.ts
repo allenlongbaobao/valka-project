@@ -21,3 +21,4 @@ const initValka = async () => {
 }
 
 start()
+console.log('start sucess')
